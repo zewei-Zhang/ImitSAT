@@ -1,0 +1,31 @@
+{
+  "context_len": 1024,
+  "max_context_len":8196,
+  "latent_len": 1,
+  "num_epochs": 100,
+  "dropout_prob": 0.1,
+  "num_transformers": 12,
+  "num_channels": 1024,
+  "num_heads": 16,
+  "cross_attend_widening_factor": 4,
+  "transformer_widening_factor": 4,
+  "position_encoding_type": "rotary",
+  "vocab_variable_range": 505,
+  "batch_size": 256,
+  "optimizer": {
+      "base_lr": 7.5e-6,
+      "warmup_steps": 2000,
+      "warmup_initial_lr": 0.0,
+      "max_norm": 1.0
+  },
+  "seed": 42,
+  "val_every": 500,
+  "save_every": 20000,
+  "max_val_steps": 1,
+  "dataset_path": "./dataset/train/",
+  "output_dir": "./model_ckpt/",
+  "tensorboard_log_dir": "./tb_log/",
+  "current_file"  : "sat_5_15.jsonl.gz",
+  "replay_fraction": 0.2,
+  "replay_seed"   : 123
+}
