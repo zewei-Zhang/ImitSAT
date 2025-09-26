@@ -1,3 +1,8 @@
+# *************************************************************************
+# SPDX-License-Identifier: Apache-2.0
+# Licensed under the Apache License, Version 2.0.
+# See the LICENSE file in the project root for the full license text.
+# *************************************************************************
 """
 Generate random 3‑SAT formulas in variable‑count buckets and write each CNF on one line
 (DIMACS‑lite: integers with trailing 0 per clause).
