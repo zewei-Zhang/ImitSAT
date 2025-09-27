@@ -53,15 +53,7 @@ pip install -r requirements.txt
 ---
 
 ## 📦 Data Pipeline
-<p>
-  We provide the test set in this repository and the training dataset
-  <a href="YOUR_DATASET_LINK_HERE">
-    <img src="https://img.shields.io/badge/Download-Dataset-blue.svg"
-         alt="Download Dataset"
-         style="vertical-align: middle; margin-left: 6px;"/>
-  </a>.
-  If you want to generate your own dataset, you can use the scripts below.
-</p>
+We provide the test set in this repository and the training dataset: <a href="https://drive.google.com/file/d/1qzUizzrSRd4bBaT-0bCYZr-MDpiKXjhW/view?usp=sharing"><img src="https://img.shields.io/badge/Download-Dataset-blue.svg" alt="Download Dataset"></a>. If you want to generate your own dataset, you can use the scripts below.
 
 
 ### 1) Generate synthetic CNF buckets
@@ -99,14 +91,8 @@ python  train_ImitSAT.py  --config ./model_config/ImitSAT_config.json  --resume_
 ---
 
 ## 🚀 Run ImitSAT
-<p>
-  We evaluate the ImitSAT and related methods on Colab with A100: 
-  <a href="https://colab.research.google.com/drive/1eoX-AngrcHocLKAgL5g5fyseLW_DusWl?usp=sharing">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg"
-         alt="google colab logo"
-         style="vertical-align: middle; margin-left: 6px;"/>
-  </a>.
-</p>
+We evaluate the ImitSAT and related methods on Colab with A100:  <a href="https://colab.research.google.com/drive/1eoX-AngrcHocLKAgL5g5fyseLW_DusWl?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>.
+
 
 **Expected model layout**
 
