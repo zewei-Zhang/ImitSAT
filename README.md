@@ -136,7 +136,7 @@ python ./utils/reformat_dimacs.py \
 ---
 
 ## 🙏 Acknowledgements
-This repository builds on prior work, including [**MiniSAT**](https://github.com/niklasso/minisat) and[**Perceiver‑AR**](https://github.com/google-research/perceiver-ar). We also drew comparisons from [**SATformer**](https://github.com/zshi0616/iccad_SATformer) and [**Graph-Q-SAT**](https://github.com/NVIDIA/GraphQSat).   In addition, we rely on excellent open‑source libraries such as `pysat`, `jax`, and `haiku`. We are grateful to the authors and maintainers of these projects.
+This repository builds on prior work, including [**MiniSAT**](https://github.com/niklasso/minisat) and[**Perceiver‑AR**](https://github.com/google-research/perceiver-ar). We also drew comparisons from [**SATformer**](https://github.com/zshi0616/iccad_SATformer) and [**Graph-Q-SAT**](https://github.com/NVIDIA/GraphQSat).   In addition, we rely on excellent open‑source libraries such as `PySAT`, `JAX`, and `HaiKu`. Part of the datasets is sourced from [**SATLIB**](https://www.cs.ubc.ca/~hoos/SATLIB/benchm.html). We are grateful to the authors and maintainers of these projects.
 
 ---
 
