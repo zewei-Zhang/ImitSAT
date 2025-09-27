@@ -97,6 +97,13 @@ We evaluate the ImitSAT and related methods on Colab with A100:  <a href="https:
 **Expected model layout**
 
 ```
+dataset/
+  testset/
+    sat_5_15_5000.txt
+    ...
+  public_dataset/
+    AIM
+    ...
 model_ckpt/
   ImitSAT.npz
   tokenizer/
