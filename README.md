@@ -16,9 +16,9 @@
 <div align="center">
 <br>
     <a href="https://arxiv.org/abs/2404.07206"><img src="https://img.shields.io/badge/arXiv-Preprint-brightgreen.svg" alt="arXiv Preprint"></a>
-    <a href="https://colab.research.google.com/drive/1eoX-AngrcHocLKAgL5g5fyseLW_DusWl?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a> 
-    <a href="https://drive.google.com/file/d/1qzUizzrSRd4bBaT-0bCYZr-MDpiKXjhW/view?usp=sharing"><img src="https://img.shields.io/badge/Download-Dataset-blue.svg" alt="Download Dataset"></a>
-    <a href="https://drive.google.com/file/d/1qzUizzrSRd4bBaT-0bCYZr-MDpiKXjhW/view?usp=sharing"><img src="https://img.shields.io/badge/Model-ImitSAT-blue.svg" alt="Model ImitSAT"></a>
+    <a href="https://colab.research.google.com/drive/1NuLn_Umt57TLEGueQj-ff8-yaM8BQiCy?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a> 
+    <a href="https://drive.google.com/drive/folders/12WR143YGghZ3zD4-4haOMv2tixAbfhZe?usp=sharing"><img src="https://img.shields.io/badge/Download-Dataset-blue.svg" alt="Download Dataset"></a>
+    <a href="https://drive.google.com/file/d/1ePaWFlMpfIKPnc31abwC_UbKDFMJyy4o/view?usp=sharing"><img src="https://img.shields.io/badge/Model-ImitSAT-blue.svg" alt="Model ImitSAT"></a>
 </div>
 
 
@@ -53,7 +53,7 @@ pip install -r requirements.txt
 ---
 
 ## 📦 Data Pipeline
-We provide the test set in this repository and the training dataset: <a href="https://drive.google.com/file/d/1qzUizzrSRd4bBaT-0bCYZr-MDpiKXjhW/view?usp=sharing"><img src="https://img.shields.io/badge/Download-Dataset-blue.svg" alt="Download Dataset"></a>. If you want to generate your own dataset, you can use the scripts below.
+We provide the test set in this repository and the training dataset: <a href="https://drive.google.com/drive/folders/12WR143YGghZ3zD4-4haOMv2tixAbfhZe?usp=sharing"><img src="https://img.shields.io/badge/Download-Dataset-blue.svg" alt="Download Dataset"></a>. If you want to generate your own dataset, you can use the scripts below.
 
 
 ### 1) Generate synthetic CNF buckets
@@ -91,7 +91,7 @@ python  train_ImitSAT.py  --config ./model_config/ImitSAT_config.json  --resume_
 ---
 
 ## 🚀 Run ImitSAT
-We evaluate the ImitSAT and related methods on Colab with A100:  <a href="https://colab.research.google.com/drive/1eoX-AngrcHocLKAgL5g5fyseLW_DusWl?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>.
+We evaluate the ImitSAT and related methods on Colab with A100:  <a href="https://colab.research.google.com/drive/1NuLn_Umt57TLEGueQj-ff8-yaM8BQiCy?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>.
 
 
 **Expected model layout**

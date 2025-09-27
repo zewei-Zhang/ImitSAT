@@ -16,3 +16,4 @@ tomli==2.0.1
 transformers==4.44.2
 scikit-learn==1.7.1
 seaborn==0.13.2
+tokenizers==0.19.1
