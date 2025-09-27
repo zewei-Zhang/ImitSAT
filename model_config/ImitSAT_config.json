@@ -1,5 +1,5 @@
 {
-  "context_len": 1024,
+  "context_len": 8196,
   "max_context_len":8196,
   "latent_len": 1,
   "num_epochs": 100,
