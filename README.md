@@ -23,7 +23,7 @@
 
 
 <div align="center">
-    <img src="./assets/keytrace.png" width="100%" />
+    <img src="./assets/keytrace.png" width="75%" />
 </div>
 
 We propose ImitSAT, a branching policy for conflict-driven clause learning (CDCL) solvers based on imitation learning for the Boolean satisfiability problem (SAT). Unlike previous methods that predict instance-level signals to improve CDCL branching indirectly, or rely on reinforcement learning and insufficient CDCL information to enhance branching, ImitSAT learns from expert KeyTrace that collapses a full run into the sequence of surviving decisions. Replaying a KeyTrace on the same instance is nearly conflict-free, providing dense decision-level supervision and directly reducing propagations—the dominant contributor to wall-clock time. This prefix-conditioned supervision enables ImitSAT to reproduce high-quality branches without exploration, yielding faster convergence, stable training, and seamless integration into CDCL. Extensive experiments demonstrate that ImitSAT reduces propagation counts and runtime, outperforming state-of-the-art learned approaches. 
