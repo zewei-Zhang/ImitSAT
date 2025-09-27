@@ -122,8 +122,7 @@ model_config/
 ---
 
 ## 📊 Evaluate (MRPP & Win@1%)
-
-Prints **MRPP $\tilde{r}$ ( $\downarrow$ )** and **Win@1% $W_{1\%}$ ($\uparrow$)**.
+Prints **MRPP** $\tilde r$ (↓) and **Win@1%** $W_{1\text{\%}}$ (↑).
 ```bash
 python ./analysis/metrics_mrpp_win.py
 # (by default scans ./output/imitsat/*.json)
