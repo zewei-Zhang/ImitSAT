@@ -143,12 +143,13 @@ This repository builds on prior work, including [**MiniSAT**](https://github.com
 ## 📚 Citation
 
 ```bibtex
-@misc{imitSAT2025,
-  title  = {Boolean Satisfiability via Imitation Learning},
-  author = {Zewei Zhang and Huan Liu and Yuanhao Yu and Jun Chen and Xiangyu XU},
-  year   = {2025},
-  eprint={},
-  archivePrefix={arXiv},
-  url={}, 
+@misc{zhang2025booleansatisfiabilityimitationlearning,
+      title={Boolean Satisfiability via Imitation Learning}, 
+      author={Zewei Zhang and Huan Liu and Yuanhao Yu and Jun Chen and Xiangyu Xu},
+      year={2025},
+      eprint={2509.25411},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2509.25411}, 
 }
 ```
