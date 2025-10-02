@@ -19,6 +19,8 @@
     <a href="https://colab.research.google.com/drive/1NuLn_Umt57TLEGueQj-ff8-yaM8BQiCy?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a> 
     <a href="https://drive.google.com/drive/folders/12WR143YGghZ3zD4-4haOMv2tixAbfhZe?usp=sharing"><img src="https://img.shields.io/badge/Download-Dataset-blue.svg" alt="Download Dataset"></a>
     <a href="https://drive.google.com/file/d/1ePaWFlMpfIKPnc31abwC_UbKDFMJyy4o/view?usp=sharing"><img src="https://img.shields.io/badge/Model-ImitSAT-blue.svg" alt="Model ImitSAT"></a>
+    <a href="https://huggingface.co/zeweizhang/ImitSAT"><img src="https://img.shields.io/badge/🤗_HuggingFace-Model-ffbd45.svg" alt="HuggingFace"></a>
+    <a href="https://huggingface.co/datasets/zeweizhang/ImitSAT-KeyTrace"><img src="https://img.shields.io/badge/🤗_HuggingFace-Dataset-ffbd45.svg" alt="HuggingFace"></a>
 </div>
 
 
@@ -53,7 +55,7 @@ pip install -r requirements.txt
 ---
 
 ## 📦 Data Pipeline
-We provide the test set in this repository and the training dataset: <a href="https://drive.google.com/drive/folders/12WR143YGghZ3zD4-4haOMv2tixAbfhZe?usp=sharing"><img src="https://img.shields.io/badge/Download-Dataset-blue.svg" alt="Download Dataset"></a>. If you want to generate your own dataset, you can use the scripts below.
+We provide the test set in this repository and the training dataset: <a href="https://drive.google.com/drive/folders/12WR143YGghZ3zD4-4haOMv2tixAbfhZe?usp=sharing"><img src="https://img.shields.io/badge/Download-Dataset-blue.svg" alt="Download Dataset"></a>    <a href="https://huggingface.co/datasets/zeweizhang/ImitSAT-KeyTrace"><img src="https://img.shields.io/badge/🤗_HuggingFace-Dataset-ffbd45.svg" alt="HuggingFace"></a>. If you want to generate your own dataset, you can use the scripts below.
 
 
 ### 1) Generate synthetic CNF buckets
