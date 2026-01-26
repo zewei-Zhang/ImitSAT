@@ -41,6 +41,13 @@ We propose ImitSAT, a branching policy for conflict-driven clause learning (CDCL
 - [Acknowledgements](#acknowledgements)
 - [Citation](#citation) -->
 
+---
+## 📰 News
+- Our paper is accepted by ICLR 2026!
+- Integration with [CaDiCaL](https://github.com/arminbiere/cadical) and [Kissat](https://github.com/arminbiere/kissat).  
+  See the updated [Colab notebook](https://colab.research.google.com/drive/1P-dzzyNRnRnilcm8B7CHmCp0JRzPMm_p?usp=sharing) for examples of combining ImitSAT with these solvers.
+
+---
 <!-- <a id="environment"></a> -->
 ## 🔧 Environment
 
@@ -93,7 +100,7 @@ python  train_ImitSAT.py  --config ./model_config/ImitSAT_config.json  --resume_
 ---
 
 ## 🚀 Run ImitSAT
-We evaluate the ImitSAT and related methods on Colab with A100:  <a href="https://colab.research.google.com/drive/1NuLn_Umt57TLEGueQj-ff8-yaM8BQiCy?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>.
+We evaluate the ImitSAT and related methods on Colab with A100:  <a href="https://colab.research.google.com/drive/1P-dzzyNRnRnilcm8B7CHmCp0JRzPMm_p?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>.
 
 
 **Expected model layout**

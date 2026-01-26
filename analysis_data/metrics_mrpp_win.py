@@ -109,7 +109,8 @@ def analyze_file(items):
                 continue
 
             # MRPP uses B/A
-            ratios.append(ratio_eps(b, a, EPS))
+            if a != 0:
+                ratios.append(ratio_eps(b, a, EPS))
 
             # Win@1% (skip when A==0)
             if a != 0.0:
