@@ -16,7 +16,7 @@
 <div align="center">
 <br>
     <a href="https://arxiv.org/abs/2509.25411"><img src="https://img.shields.io/badge/arXiv-Preprint-brightgreen.svg" alt="arXiv Preprint"></a>
-    <a href="https://colab.research.google.com/drive/1NuLn_Umt57TLEGueQj-ff8-yaM8BQiCy?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a> 
+    <a href="https://colab.research.google.com/drive/1P-dzzyNRnRnilcm8B7CHmCp0JRzPMm_p?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a> 
     <a href="https://drive.google.com/drive/folders/12WR143YGghZ3zD4-4haOMv2tixAbfhZe?usp=sharing"><img src="https://img.shields.io/badge/Download-Dataset-blue.svg" alt="Download Dataset"></a>
     <a href="https://drive.google.com/file/d/1ePaWFlMpfIKPnc31abwC_UbKDFMJyy4o/view?usp=sharing"><img src="https://img.shields.io/badge/Model-ImitSAT-blue.svg" alt="Model ImitSAT"></a>
     <a href="https://huggingface.co/zeweizhang/ImitSAT"><img src="https://img.shields.io/badge/🤗_HuggingFace-Model-ffbd45.svg" alt="HuggingFace"></a>
