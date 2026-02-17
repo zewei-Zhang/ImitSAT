@@ -16,6 +16,7 @@
 <div align="center">
 <br>
     <a href="https://arxiv.org/abs/2509.25411"><img src="https://img.shields.io/badge/arXiv-Preprint-brightgreen.svg" alt="arXiv Preprint"></a>
+    <a href="https://openreview.net/pdf?id=LNqWbY5iIf"><img src="https://img.shields.io/badge/ICLR-2026%20Paper-blueviolet" alt="ICLR Paper"></a>
     <a href="https://colab.research.google.com/drive/1P-dzzyNRnRnilcm8B7CHmCp0JRzPMm_p?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a> 
     <a href="https://drive.google.com/drive/folders/12WR143YGghZ3zD4-4haOMv2tixAbfhZe?usp=sharing"><img src="https://img.shields.io/badge/Download-Dataset-blue.svg" alt="Download Dataset"></a>
     <a href="https://drive.google.com/file/d/1ePaWFlMpfIKPnc31abwC_UbKDFMJyy4o/view?usp=sharing"><img src="https://img.shields.io/badge/Model-ImitSAT-blue.svg" alt="Model ImitSAT"></a>
@@ -152,13 +153,11 @@ This repository builds on prior work, including [**MiniSAT**](https://github.com
 ## 📚 Citation
 
 ```bibtex
-@misc{zhang2025booleansatisfiabilityimitationlearning,
-      title={Boolean Satisfiability via Imitation Learning}, 
-      author={Zewei Zhang and Huan Liu and Yuanhao Yu and Jun Chen and Xiangyu Xu},
-      year={2025},
-      eprint={2509.25411},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2509.25411}, 
+@inproceedings{zhang2026boolean,
+      title={Boolean Satisfiability via Imitation Learning},
+      author={Zewei Zhang and Huan Liu and YUANHAO YU and Jun Chen and Xiangyu Xu},
+      booktitle={The Fourteenth International Conference on Learning Representations},
+      year={2026},
+      url={https://openreview.net/forum?id=LNqWbY5iIf}
 }
 ```
