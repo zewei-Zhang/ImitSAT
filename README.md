@@ -2,7 +2,7 @@
   <h1 align="center"><em>ImitSAT</em>: Boolean Satisfiability via Imitation Learning</h1>
   <!-- <br /> -->
   <div align="center">
-    <a href="https://zewei-zhang.github.io/"><strong>Zewei Zhang</strong>
+    <a href="https://zewei-zhang.github.io/"><strong>Zewei Zhang</strong></a>
     &nbsp;&nbsp;
     <strong>Huan Liu</strong>
     &nbsp;&nbsp;
